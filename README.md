@@ -178,6 +178,6 @@ Some project assets, builds, and proprietary resources are not included due to p
 
 Unity Game Developer
 
-GitHub: https://github.com/YOUR_USERNAME
+[GITHUB](https://github.com/tushar2627) 
 
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+[LINKEDIN](https://www.linkedin.com/in/tushar-saxena-aa087b200/) 
