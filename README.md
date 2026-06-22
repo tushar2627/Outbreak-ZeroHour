@@ -75,7 +75,7 @@ Outbreak ZeroHour focuses on creating an immersive survival experience through a
 
 ### Environment Design
 <p align="center">
-  <img src="https://github.com/tushar2627/Blood-Oath-Of-Akechi/blob/main/BOA%201.png" width="800" />
+  <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ1.png" width="800" />
 </p>
 
 ### Gameplay
