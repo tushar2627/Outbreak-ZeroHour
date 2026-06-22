@@ -118,6 +118,14 @@ Outbreak ZeroHour focuses on creating an immersive survival experience through a
 
 ---
 
+
+<p align="center">
+  <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ10.png" width="800" />
+</p>
+
+
+---
+
 ### Zombie AI
 
 
@@ -133,10 +141,6 @@ Outbreak ZeroHour focuses on creating an immersive survival experience through a
 
 
 ---
-
-<p align="center">
-  <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ10.png" width="800" />
-</p>
 
 ## Third Person Controller
 
