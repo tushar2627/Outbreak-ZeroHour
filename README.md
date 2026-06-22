@@ -103,7 +103,7 @@ Outbreak ZeroHour focuses on creating an immersive survival experience through a
   <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ5.png" width="800" />
 </p>
 
-### Gameplay
+## Gameplay
 
 <p align="center">
   <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ6.png" width="800" />
