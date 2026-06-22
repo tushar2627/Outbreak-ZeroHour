@@ -73,7 +73,7 @@ Outbreak ZeroHour focuses on creating an immersive survival experience through a
 
 ## Screenshots
 
-### Environment Design
+## Environment Design
 
 <p align="center">
   <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ1.png" width="800" />
@@ -112,16 +112,18 @@ Outbreak ZeroHour focuses on creating an immersive survival experience through a
 ---
 
 <p align="center">
-  <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ7.png" width="800" />
+  <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ8.png" width="800" />
 </p>
 
 
 ---
 
-<p align="center">
-  <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ8.png" width="800" />
-</p>
+### Zombie AI
 
+
+<p align="center">
+  <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ7.png" width="800" />
+</p>
 
 ---
 
@@ -130,12 +132,17 @@ Outbreak ZeroHour focuses on creating an immersive survival experience through a
 </p>
 
 
+---
 
-### Zombie AI
-![Zombie AI](Screenshots/zombie_ai_01.png)
+<p align="center">
+  <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ10.png" width="800" />
+</p>
 
-### Third Person Controller
-![Player Controller](Screenshots/player_controller_01.png)
+## Third Person Controller
+
+<p align="center">
+  <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ11.png" width="800" />
+</p>
 
 ---
 
