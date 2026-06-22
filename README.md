@@ -172,12 +172,33 @@ Some project assets, builds, and proprietary resources are not included due to p
 
 ---
 
-## Contact
+---
 
-**Tushar Saxena**
+## Credits
 
-Unity Game Developer
+- Developer: [Tushar Saxena](https://github.com/tushar2627)
+- Internship Organization: Akiyam Solutions Pvt. Ltd.
+- Role: Unity Game Developer Intern
+- Game Engine: Unity
+- Programming Language: C#
+- Player Controller: JU TPS Controller
+- Assets: Company-Provided Assets and Additional Resources
+- Special Thanks: Akiyam Solutions Development Team
 
-[GITHUB](https://github.com/tushar2627) 
+---
 
-[LINKEDIN](https://www.linkedin.com/in/tushar-saxena-aa087b200/) 
+## Support
+
+If you found this project interesting, consider giving it a star on GitHub.
+
+---
+
+## Connect
+
+Email: saxenatushar301@gmail.com
+
+GitHub: https://github.com/tushar2627
+
+LinkedIn: https://www.linkedin.com/in/tushar-saxena-aa087b200/
+
+---
