@@ -79,24 +79,57 @@ Outbreak ZeroHour focuses on creating an immersive survival experience through a
   <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ1.png" width="800" />
 </p>
 
+---
+
 <p align="center">
   <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ2.png" width="800" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ3.png" width="800" />
 </p>
 
+---
+
 <p align="center">
   <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ4.png" width="800" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ5.png" width="800" />
 </p>
 
 ### Gameplay
-![Gameplay](Screenshots/gameplay_01.png)
+
+<p align="center">
+  <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ6.png" width="800" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ7.png" width="800" />
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ8.png" width="800" />
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://github.com/tushar2627/Outbreak-ZeroHour/blob/main/OZ9.png" width="800" />
+</p>
+
+
 
 ### Zombie AI
 ![Zombie AI](Screenshots/zombie_ai_01.png)
